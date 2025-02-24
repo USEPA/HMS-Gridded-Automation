@@ -10,13 +10,9 @@ In order to facilitate the development of the virtual environment with GDAL/HMS/
 	1) Open command line terminal
 	2) Run code to create the virtual environment based on the yaml (.yml) configuration file from your directory path located in the repository: conda env create -f 
 	e.g. conda env create -f "path\020325pygdalenvironment.yml"
-	
-	
-	
 	3) Virtual Environment will be developed name pygdal4. The environment will be placed into environment file folder with the name pygdal4. This will install all dependencies required to run the virtual environment
-	4) 
-	5) (Start here at step 5 after initial deployment to activate the environment)To use the environment prior to jupyterlab/jupyter notebook deployment, we must activate the environment: conda activate pygdal4 
-	6) Change the directory/path/folder where the repository was downloaded : 
+	4) (Start here at step 5 after initial deployment to activate the environment)To use the environment prior to jupyterlab/jupyter notebook deployment, we must activate the environment: conda activate pygdal4 
+	5) Change the directory/path/folder where the repository was downloaded : 
 	e.g. cd path\folderofchoice
-	7) Initialize a jupyterlab to open the files from the downloaded repository: python -m jupyterlab
+	6) Initialize a jupyterlab to open the files from the downloaded repository: python -m jupyterlab
 A browser on the internet will open up with  jupyterlab to access the jupyter notebook and the associated files required for downloading 

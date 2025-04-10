@@ -17,4 +17,8 @@ e.g. conda env create -f "path\020325pygdalenvironment.yml"
 5) Change the directory/path/folder where the repository was downloaded : 
 e.g. cd path\folderofchoice
 6) Initialize jupyterlab to open the files from the downloaded repository: python -m jupyterlab
-A browser on the internet will open with  jupyterlab to access the jupyter notebook for the workflow and provided the associated files required for running the respository after forking or downloading.  
+A browser on the internet will open with  jupyterlab to access the jupyter notebook for the workflow and the provided associated files required for running the respository after forking or downloading.  
+
+
+# Viewing Notebook Render
+If unable to view the notebook render due to the output stored in the jupyter notebook, please use the nbviewer link: https://nbviewer.org/github/kvenable2011/HMS-Gridded-Automation/blob/main/022025_HMS_Automation_Cleaned.ipynb

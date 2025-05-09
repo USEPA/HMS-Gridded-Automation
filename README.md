@@ -20,5 +20,5 @@ e.g. cd path\folderofchoice
 A browser on the internet will open with  jupyterlab to access the jupyter notebook for the workflow and the provided associated files required for running the respository after forking or downloading.  
 
 
-# Viewing Notebook Render
-If unable to view the notebook render due to the output stored in the jupyter notebook, please use the nbviewer link: https://nbviewer.org/github/kvenable2011/HMS-Gridded-Automation/blob/main/022025_HMS_Automation_Cleaned.ipynb
+# Viewing Notebook Renders
+If unable to view the notebook render due to the output stored in the jupyter notebook, please use the nbviewer link: https://nbviewer.org/github/kvenable2011/HMS-Gridded-Automation/blob/main/022025_HMS_Automation_Cleaned.ipynb and https://nbviewer.org/github/USEPA/HMS-Gridded-Automation/blob/main/050125_DailySupportingWaterBudget_M2_Revisions.ipynb
